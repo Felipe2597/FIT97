@@ -13,11 +13,11 @@
 <main>
 <header>
 <div>
-<small class="green">PERFORMANCE / FITNESS</small>
+<small class="green">HUMAN PERFORMANCE</small>
 <h1>FIT<span class="green">97</span>
 </h1>
 </div>
-<button onclick="go('ajustes')" aria-label="Configurações">⚙</button>
+<button onclick="go('ajustes')" aria-label="Configurações">Ajustes</button>
 </header>
 <section id="app">
 </section>
@@ -25,6 +25,8 @@
 </main>
 <nav id="nav">
 </nav>
+<dialog id="guide"><div class="guide-top"><button onclick="this.closest('dialog').close()" aria-label="Fechar guia">Fechar ×</button></div><div class="guide-body"></div></dialog>
+<script src="library.js"></script>
 <script src="script.js">
 </script>
 </body>

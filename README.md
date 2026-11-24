@@ -1,3 +1,3 @@
-# FIT97 v3
+# FIT97 V5 — Human Performance
 
-Substitua os sete arquivos na pasta existente. Abra index.html ou publique no GitHub Pages. Dados locais, sem login ou sincronização. Exporte backup antes de atualizar ou trocar de navegador; fotos opcionais ficam no armazenamento local e no backup. Não publique backups ou fotos. Metas são estimativas ajustáveis.
+Substitua os arquivos da pasta local, incluindo o novo library.js, e publique via GitHub Desktop. Dados locais usam a mesma chave da V4. Exporte um backup antes de atualizar. A biblioteca usa esquemas originais simplificados; não são vídeos ou orientação individual. A carga inicial deve ser escolhida pela técnica e repetições em reserva. Login e sincronização não implementados. Fotos ficam no armazenamento local, não no GitHub. Não publique backups pessoais.
